@@ -1,27 +1,16 @@
-### Hi there 👋
+## 🌳데엔 꿈나무
+* 오준
+* 플레이 데이터 엔지니어링 22기
 
-🔔Project
 
-1. https://github.com/OhJune/SweetBot
+## 🔔Project
 
-2. https://github.com/romantiveloper/Alsong-Dlsong
+🔗https://github.com/OhJune/SweetBot
 
-<!--
-**OhJune/OhJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗https://github.com/romantiveloper/Alsong-Dlsong
 
-Here are some ideas to get you started:
+## 🧰 STACKS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align=left><h2>🧰 STACKS</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 

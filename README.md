@@ -9,6 +9,12 @@
 
 🔗https://github.com/romantiveloper/Alsong-Dlsong
 
+## 💻주요 역할
+
+🔗https://github.com/OhJune/Airflow
+
+🔗https://github.com/OhJune/Client-Django-FastAPI
+
 ## 🧰 STACKS
 
 

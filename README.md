@@ -11,7 +11,7 @@
 > `사용 stack : django,mysql,linux,docker,amazonec2`
 
 🔗https://github.com/romantiveloper/Alsong-Dlsong
-> **노래방 곡 데이터를 한 데 모아 검색 및 저장하고, 저장된 곡을 기반으로 부를 노래를 추천해주는 웹 서비스** <br>
+> **노래방 곡 데이터를 검색 및 저장하고, 저장된 곡을 기반으로 부를 노래를 추천해주는 웹 서비스** <br>
 > `사용 stack : django,fastapi,AWS(bucket),airflow,celery,rabbitmq,redis,postgreDB, mongoDB,GCP,docker, docker compose,elastic search,OpenAI,kakaoAPI`
 
 🔗https://github.com/OhJune/Hadoop-Spark/ (진행중)

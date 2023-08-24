@@ -7,10 +7,16 @@
 ## 🔔Project
 
 🔗https://github.com/OhJune/SweetBot
+> **Open AI의 gptAPI를 이용하여 이용자의 MBTI에 맞는 챗봇 서비스** <br><br>
+> `사용 stack : django,mysql,linux,docker,amazonec2`
 
 🔗https://github.com/romantiveloper/Alsong-Dlsong
+> **노래방 곡 데이터를 한 데 모아 검색 및 저장하고, 저장된 곡을 기반으로 부를 노래를 추천해주는 웹 서비스** <br><br>
+> `사용 stack : django,fastapi,AWS(bucket),airflow,celery,rabbitmq,redis,postgreDB, mongoDB,GCP,docker, docker compose,elastic search,OpenAI,kakaoAPI`
 
 🔗https://github.com/OhJune/Hadoop-Spark/ (진행중)
+> **노트북 8대로 온프레미스 환경을 구축하여 하둡,스파크를 사용하여 데이터 분석**<br><br>
+> `사용 stack : ubuntu,apache hadoop,spark,bigquery,tableau`
 
 ## 💻주요 역할
 

@@ -15,7 +15,7 @@
 > `사용 stack : django,fastapi,AWS(bucket),airflow,celery,rabbitmq,redis,postgreDB, mongoDB,GCP,docker, docker compose,elastic search,OpenAI,kakaoAPI`
 
 🔗https://github.com/OhJune/Hadoop-Spark/ (진행중)
-> **노트북 8대로 온프레미스 환경을 구축하여 하둡,스파크를 사용하여 데이터 분석**<br><br>
+> **노트북 8대로 온프레미스 환경을 구축하고 하둡,스파크를 사용하여 데이터 분석**<br><br>
 > `사용 stack : ubuntu,apache hadoop,spark,bigquery,tableau`
 
 ## 💻주요 역할

@@ -3,6 +3,7 @@
 * 응용통계학과
 * 플레이 데이터 엔지니어링 22기
 
+📖Study blog : https://oh-um.tistory.com/
 
 ## 🔔Project
 
@@ -75,7 +76,6 @@
 
 <div align=center>
 
-📖Study blog : https://oh-um.tistory.com/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhJune&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)            
 

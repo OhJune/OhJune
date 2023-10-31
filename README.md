@@ -15,7 +15,7 @@
 > **노래방 곡 데이터를 검색 및 저장하고, 저장된 곡을 기반으로 부를 노래를 추천해주는 웹 서비스** <br>
 > `사용 stack : django,fastapi,AWS(bucket),airflow,celery,rabbitmq,redis,postgreDB,mongoDB,GCP,docker,docker compose,elastic search,OpenAI,kakaoAPI`
 
-🔗https://github.com/OhJune/Hadoop-Spark/ (진행중)
+🔗https://github.com/OhJune/Hadoop-Spark/ 
 > **노트북 8대로 온프레미스 환경을 구축하고 하둡,스파크를 사용하여 데이터 처리**<br>
 > `사용 stack : ubuntu,apache hadoop,spark,bigquery,tableau`
 
